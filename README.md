@@ -18,13 +18,13 @@ $E_0$ may be called the "rest energy" of the object.
 However, if the object is moving with speed $v$ relative to the observer, then its energy is
 $$E_v = \frac{mc^2}{\sqrt{1 - v^2 / c^2}}.$$
 
-The difference between these two energy levels, $E_t=E_v - E_0$, is the *energy needed to impart speed v m/s to an object of mass m kilograms
+The difference between these two energy levels, $$E_t=E_v - E_0$$, is the *energy needed to impart speed v m/s to an object of mass m kilograms
 starting from rest*. Energy is measured in Joules (J).
 
 ### Your Assignment:
 
 Create a Java class called `Energy` which prompts the user to enter a rest mass and a speed,
-and then computes and prints how much energy it would take to get that mass up to that speed. NOTE: This is asking for $E_t$. Example:
+and then computes and prints how much energy it would take to get that mass up to that speed. NOTE: This is asking you to compute $E_t$. Example:
 
 ```
 Enter a rest mass (in kilograms): 10
@@ -32,7 +32,7 @@ Enter a speed (in m/s): 10
 Total energy: 500 J
 ```
 
-After your program is working, use comments to answer the following questions in the `Energy.java` file.
+After your program is working, use comments to answer the following questions in the `Energy.java` file, or include a .txt file called `Part_1_answers` in your GitHub repo. 
 
 (1) In old-time (nonrelativistic) physics, the formula for energy was
 $$E_v = \frac{1}{2}mv^2.$$ Today, we consider this formula to be a good approximation to the true energy
@@ -67,7 +67,7 @@ Enter the second speed (in m/s): 25
 The speed of the second object relative to the observer is: 35 m/s.
 ```
 
-Once your program is working, use comments to answer the following questions in the `VelocityAdd.java` file. 
+Once your program is working, use comments to answer the following questions in the `VelocityAdd.java` file, or include a .txt file called `Part_2_answers` in your GitHub repo.
 
 (1) In nonrelativistic physics, the formula for velocity addition was
 $$v = v_1 + v_2,$$
