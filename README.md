@@ -2,7 +2,7 @@
 
 ## Goal: Learn Standard I/O (Input/Output), numeric datatypes, and mathematical operations.
 
-### NOTE: The speed of light is 299,792,458 m/s. (This is actually how the meter is officially defined nowadays!)
+### NOTE: The speed of light is 299,792,458 m/s. (This is actually how the meter is officially defined nowadays!). We have not specifically discuss several mathematical operators. You may find the `Math` class useful for this assignment. You can find details in section 4.1 of our textbook or [here](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)
 
 ## Part 1
 
