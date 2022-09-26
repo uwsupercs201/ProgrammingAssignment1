@@ -79,18 +79,9 @@ Does your program VelocityAdd(from question 2(a)) agree with this result?
 (2) Run your program with the input $v_1 = 0.9c$ and $v_2 = 0.9c$. (You need to figure out what $0.9c$ is first.)
 What is the output? How can you interpret it?
 
-## Submitting the Assignment
 
-When you're done, you can upload your files to this Repo and commit the changes.
+## Submitting the Assignment:
 
-Click Add files at the top right of the Repo page.
-
-There are two options:
-
-A) Click "Add Files" to create new Java files in the repo manually. Create new files with name `Energy.java` and `VelocityAdd.java` You can re-type or copy paste your code into those files.
-
-B) Click "Upload Files" to just upload the `.java` files you already created. Navigate to the src folder on your computer and upload `Energy.java` and `VelocityAdd.java`.
-
-Once you've created the file you want, or uploaded them, navigate to the bottom of the Page and hit "Commit changes". Ensure "Commit directly to the main branch." is selected. You'll need to "Commit changes" once for each file you "Create" in GitHub, but can upload multiple files before a single Commit.
+Navigate to the ProgrammingAssignmentWeek3 folder in your file manager. Right click on the folder and select "Send to" and then "Compressed (Zipped) folder". This will create a new folder in the same location with the same name but extension .zip. Upload the .zip folder to this Canvas page.
 
 
